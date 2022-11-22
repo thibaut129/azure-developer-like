@@ -75,13 +75,13 @@
         <version>2.5.0</version>
         <configuration>
           <schemaVersion>v2</schemaVersion>
-          <subscriptionId>195d944b-74f6-4cb3-acb2-fc20eac1c87a</subscriptionId>
-          <resourceGroup>af-klm-az-204</resourceGroup>
-          <appName>af-klm-az-204-wa</appName>
+          <subscriptionId>16cfc856-c2f1-4103-80c3-8deba1743963</subscriptionId>
+          <resourceGroup>nov22-trainee-5</resourceGroup>
+          <appName>swan-rct</appName>
           <pricingTier>P1v2</pricingTier>
           <region>westeurope</region>
-          <appServicePlanName>af-klm-az-204-asp</appServicePlanName>
-          <appServicePlanResourceGroup>af-klm-az-204</appServicePlanResourceGroup>
+          <appServicePlanName>ASP-nov22trainee5-9e95</appServicePlanName>
+          <appServicePlanResourceGroup>nov22-trainee-5</appServicePlanResourceGroup>
           <runtime>
             <os>Linux</os>
             <javaVersion>17.0.2</javaVersion>
